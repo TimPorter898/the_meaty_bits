@@ -1,2 +1,2 @@
 # the_meaty_bits
-Short and sweet coding bits that i find super interesting
+Short and sweet coding bits that I find super interesting. Hope you will to!
